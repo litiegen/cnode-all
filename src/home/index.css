@@ -1,0 +1,109 @@
+.leftt{
+	width: 1000px;
+	float: left;
+}
+.all{
+	float: left;
+	width: 1000px;
+	height: 40px;
+    margin:0 auto;
+	line-height: 40px;
+	background-color: #F6F6F6;
+}
+.all a{
+	color: #80BD01;
+	margin:0 15px;
+}
+.all a:hover{
+	color: red;
+}
+.all a:focus{
+	background-color:#80BD01 ;
+	color:#fff;
+}
+.cell{
+	width: 1000px;
+	float: left;
+	height: 50px;
+}
+.userleft{
+	float: left;
+}
+.userleft img{
+	margin-left:10px;
+	margin-top:5px;
+	width: 30px;
+	height: 30px;
+}
+.userright{
+	float: left;
+	margin-top:-20px ;
+}
+.userright img{
+	float: left;
+	margin-left: 880px;
+	width: 18px;
+	height: 18px;
+}
+.userright span{
+	float: left;
+	margin-left: 10px;
+	font-size:11px;
+	color:#778087;
+}
+.imgright{
+	margin-top:10px;
+	margin-left:55px;
+}
+.imgright span{
+	float: left;
+}
+.ans{
+	font-size: 14px;
+	color: #9E78C0;
+}
+.check{
+	font-size: 10px;
+	color: #B4B4B4;
+	margin-top: 5px;
+	margin-left: 2px;
+}
+.usertop{
+	margin-left: 70px;
+}
+.usertop span{
+	width: 35px;
+	border-radius: 3px;
+	text-align: center;
+	background-color: #E5E5E5;
+	color:#999999;
+}
+.usertoptitle{
+	margin-left: 10px;
+	color: black;
+}
+.buton{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	width: 900px;
+	height: 30px;
+	margin-left: 30px;
+	float: left;
+}
+.buton a{
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 1px solid black;
+	color: black;
+	margin:0 10px;
+	text-align: center;
+	line-height: 30px;
+	border-radius: 4px;
+}
+.buton :hover{
+	background-color:#dadddf;
+}
+.buton :focus{
+	color: #80BD01;
+}

@@ -1,0 +1,100 @@
+.rightall{
+  width: 285px;
+}
+.chinese{
+  width: 285px;
+  height: 120px;
+  background-color: #fff;
+}
+.chinese p{
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.chinese div{
+  float: left;
+  margin-left: 10px;
+}
+.git{
+  float: left;
+  width: 285px;
+  height: 20px;
+}
+.git a{
+  color: #778087;
+  font-size: 13px;
+}
+.span-info{
+  margin-left: 10px;
+  float: left;
+  color: #fff;
+  background: #58C0DE;
+  padding: 3px 10px;
+  border-radius: 3px;
+  height: 35px;
+  line-height: 30px;
+  margin-top: 10px;
+}
+.img{
+  margin-top: 10px;
+  width: 285px;
+  height: 235px;
+  background-color: #fff;
+}
+.img img{
+  width: 270px;
+  height: 65px;
+  margin-left: 8px;
+  margin-top: 10px;
+}
+.chat{
+  margin-top: 10px;
+  width: 285px;
+  height: 120px;
+  background-color: #fff;
+}
+.chattop{
+  width: 285px;
+  height: 40px;
+  color:#51585C;
+  background-color: #F6F6F6;
+}
+.chattop span{
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.img2{
+  width: 285px;
+  height: 240px;
+  background-color: #fff;
+}
+.img2 img{
+  width: 150px;
+  height: 52px;
+  margin-left: 8px;
+  margin-top: 5px;
+}
+.er{
+  margin-top: 180px;
+  width: 285px;
+  height: 300px;
+  background-color: #fff;
+}
+.erma{
+  width: 285px;
+  height: 40px;
+  color:#51585C;
+  background-color: #F6F6F6;
+}
+.erma span{
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.er img{
+  width: 200px;
+  height: 200px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
