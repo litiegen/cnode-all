@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import stringHtml from './markdown';
 import './index.css'
 
@@ -7,7 +7,7 @@ const API = () => {
 	return (
 		<div className="panel">
 			<div className="all">
-				<Link to="/">主页</Link>
+				{/* <Link to="/">主页</Link> */}
 				<span className="xie">/</span>
 				<span className="xin">API</span>
 			</div>
